@@ -1,0 +1,14 @@
+# Variáveis de ambiente e chaves
+.env
+
+# Bancos de dados vetoriais locais (ChromaDB)
+chroma_db/
+ckp02_a/
+ckp02_b/
+
+# Temporários do Python e Jupyter Notebook
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
